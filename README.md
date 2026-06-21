@@ -5,9 +5,9 @@ Projeto fictício desenvolvido para a disciplina de Gerência de Configuração 
 ## Descrição
 Sistema de gerenciamento de eventos universitários com cadastro de eventos, inscrições, controle de vagas e emissão de certificados.
 ## Integrantes
-Júlia Hang
-Luiz Ank
-Luis Fernando Perim
+Júlia Hang;
+Luiz Ank;
+Luis Fernando Perim.
 ## Estrutura do Projeto
 docs/
 
