@@ -10,5 +10,5 @@ Luiz Ank;
 Luis Fernando Perim.
 ## Estrutura do Projeto
 docs/
-
+https://docs.google.com/document/d/1JXBpprinJsgJAqQpYznhS7ldzNOM2_05xYetgzzk_iQ/edit?usp=sharing
 src/
